@@ -13,4 +13,5 @@
 >https://github.com/BohowYeh/LINE-Repair-BOT/assets/151061264/23e47447-996f-47e3-9900-38810fd760fd
 
 # 結果
+機器人將使用者提供的資訊記錄自動記錄在試算表
 <img width="1280" alt="螢幕擷取畫面 2024-03-05 225302" src="https://github.com/BohowYeh/LINE-Repair-BOT/assets/151061264/e969e9e1-bbad-42d5-a9fe-4113467c4cad">
